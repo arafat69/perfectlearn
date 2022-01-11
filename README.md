@@ -4,4 +4,6 @@
 Dashboard  
 <a href="http://freelancerworld.ga/admin/login">Admin login</a>  
 Email: arafat@gmail.com  
-Password: 1234
+Password: 1234 
+ 
+use Laravel 8 
